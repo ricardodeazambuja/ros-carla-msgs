@@ -14,6 +14,7 @@ set(MSG_FILES
     CarlaEgoVehicleInfoWheel.msg
     CarlaEgoVehicleInfo.msg
     CarlaCollisionEvent.msg
+    CarlaObstacleDetectionEvent.msg
     CarlaLaneInvasionEvent.msg
     CarlaWorldInfo.msg
     CarlaActorInfo.msg
